@@ -1,0 +1,2 @@
+1
+sprite_sheet Knight ../../_assets/spritesheets/Knight.png 1 4
